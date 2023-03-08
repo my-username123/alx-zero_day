@@ -1,1 +1,2 @@
-My first readme Changes made
+My first readme 
+Coding is fun
